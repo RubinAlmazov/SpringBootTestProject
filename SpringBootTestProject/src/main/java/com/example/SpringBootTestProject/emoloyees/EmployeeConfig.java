@@ -20,7 +20,6 @@ public class EmployeeConfig {
                             "Artem",
                             "artem@gmail.com",
                             LocalDate.of(2005,5,4),
-                            19,
                             10000
                     ),
                     new Employee(
@@ -28,7 +27,6 @@ public class EmployeeConfig {
                             "Denis",
                             "denis@gmail.com",
                             LocalDate.of(2005, 7, 12),
-                            19,
                             10000
                     )
             );
